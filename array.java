@@ -3,9 +3,9 @@ public class array {
 
 	public static void main(String[] args) {
 		
-int[] number=new int[5];
+int[] number=new int[3];
 char[] ch=new char[3];
-byte[] by=new byte[5];
+byte[] by=new byte[3];
 float[] fl=new float[4];
 short[] sh=new short[7];
 boolean[] bool=new boolean[8];

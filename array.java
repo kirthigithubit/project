@@ -19,10 +19,7 @@ for(int i=0;i<by.length;i++)
 	{
 	   System.out.println(by[i]);
 	}
-for(int i=0;i<bool.length;i++)
-{
-   System.out.println(bool[i]);
-}
+
 for(int i=0;i<fl.length;i++)
 {
    System.out.println(fl[i]);

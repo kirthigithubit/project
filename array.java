@@ -6,9 +6,9 @@ public class array {
 int[] number=new int[5];
 char[] ch=new char[3];
 byte[] by=new byte[5];
-float[] fl=new float[4];
-short[] sh=new short[7];
-boolean[] bool=new boolean[8];
+float[] fl=new float[3];
+short[] sh=new short[3];
+boolean[] bool=new boolean[3];
 for(int i=0;i<by.length;i++)
 	{
 	   System.out.println(by[i]);

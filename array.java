@@ -7,10 +7,10 @@ int[] number=new int[3];
 char[] ch=new char[3];
  
 byte[] by=new byte[3];
-float[] fl=new float[4];
-short[] sh=new short[7];
-boolean[] bool=new boolean[8];
-byte[] by=new byte[5];
+float[] fl=new float[3];
+short[] sh=new short[3];
+boolean[] bool=new boolean[3];
+byte[] by=new byte[3];
 float[] fl=new float[3];
 short[] sh=new short[3];
 boolean[] bool=new boolean[3];

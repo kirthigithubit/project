@@ -5,17 +5,16 @@ public class array {
 		
 int[] number=new int[3];
 char[] ch=new char[3];
-<<<<<<< HEAD
+ 
 byte[] by=new byte[3];
 float[] fl=new float[4];
 short[] sh=new short[7];
 boolean[] bool=new boolean[8];
-=======
 byte[] by=new byte[5];
 float[] fl=new float[3];
 short[] sh=new short[3];
 boolean[] bool=new boolean[3];
->>>>>>> 8f17b3b584262ad3c0a7e035444e4a40039340f0
+
 for(int i=0;i<by.length;i++)
 	{
 	   System.out.println(by[i]);

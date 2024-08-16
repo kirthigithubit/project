@@ -2,7 +2,7 @@
 public class array {
 
 	public static void main(String[] args) {
-		
+        System.out.println("Array concept");	
 int[] number=new int[3];
 char[] ch=new char[3];
  

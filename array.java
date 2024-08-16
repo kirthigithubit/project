@@ -34,7 +34,7 @@ for(int i=0;i<number.length;i++)
    System.out.println(number[i]);
 }
 System.out.println("***** print 0,2,4,6th index *****");
-int[] numbers= {98,65,456,876,987,231,987,1251};//0,2,4,6th index
+int[] numbers={55,44,33,22,99,77,88,11};//0,2,4,6th index
 for(int j=0;j<numbers.length;j=j+2)
 {
 	System.out.println(numbers[j]);
